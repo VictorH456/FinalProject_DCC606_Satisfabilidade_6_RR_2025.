@@ -1,0 +1,1 @@
+# FinalProject_DCC606_Satisfabilidade_VictorCostaEGiovanaOliveira_RR_2025.
