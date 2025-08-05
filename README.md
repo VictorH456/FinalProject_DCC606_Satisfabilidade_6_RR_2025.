@@ -13,7 +13,7 @@ Este projeto é uma implementação e análise de diferentes algoritmos para res
 ## Autores
 
 - Victor Hugo Souza Costa
-- Giovana Oliveira
+- Giovana Oliveira Moraes de Lima
 
 ## 📂 Estrutura do Projeto
 
