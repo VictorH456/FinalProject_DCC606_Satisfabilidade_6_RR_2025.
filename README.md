@@ -1,5 +1,7 @@
 
-# FinalProject_DCC606_Satisfabilidade_VictorCostaEGiovanaOliveira_RR_2025
+# Projeto: Análise e Comparação de Algoritmos de Satisfatibilidade Booleana (SAT)
+
+ <img src="https://github.com/VictorH456/FinalProject_DCC606_Satisfabilidade_6_RR_2025./blob/main/logo.png" >
 
 Este projeto é uma implementação e análise de diferentes algoritmos para resolver o problema de **Satisfatibilidade Booleana (SAT)**, utilizando fórmulas no formato **DIMACS CNF**. A proposta foi desenvolvida como parte do trabalho final da disciplina **DCC606 - Análise de Algoritmos**, com o objetivo de:
 
